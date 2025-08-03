@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cybersecurity Awareness Game</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+  <div class="game-container">
+    <h1>Cybersecurity Awareness Game</h1>
+    <div id="quiz-section">
+      <div id="question-box">
+        <p id="question-text"></p>
+        <div id="options"></div>
+        <p id="feedback"></p>
+        <button id="next-btn">Next</button>
+        <p>Lives: <span id="lives">3</span> | Score: <span id="score">0</span></p>
+      </div>
+    </div>
+
+    <div id="email-section" style="display: none;">
+      <h2>Email Phishing Simulator</h2>
+      <p><strong>Subject:</strong> <span id="email-subject"></span></p>
+      <p><strong>From:</strong> <span id="email-from"></span></p>
+      <p><strong>Body:</strong> <span id="email-body"></span></p>
+      <button onclick="handleEmailResponse('phishing')">Phishing</button>
+      <button onclick="handleEmailResponse('safe')">Safe</button>
+    </div>
+
+    <div id="end-section" style="display: none;"></div>
+
+    <div id="leaderboard-section">
+      <h3>🏆 Leaderboard</h3>
+      <div id="leaderboard"></div>
+    </div>
+  </div>
+
+  <script src="script1.js"></script>
+</body>
+</html>
