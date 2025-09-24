@@ -5,7 +5,7 @@ Interactive, browser-based cybersecurity simulation to practice real-world defen
 - **Quizzes + timers**: Timed rounds, streaks, and instant feedback to reinforce learning.  
 - **Realistic artifacts**: Emails, logs, URLs, headers, and indicators of compromise (IOCs).  
 - **Scoring & badges**: Accuracy, speed, and safe decisions unlock levels.  
-- **Modular content**: Add new scenarios with a single JSON file.
+
 
 ## 🎯 Learning objectives
 - Identify phishing and social engineering cues  
