@@ -2,7 +2,7 @@
 
 Interactive, browser-based cybersecurity simulation to practice real-world defense skills—spot phishing, contain malware, harden passwords, and respond to incidents under time pressure. Built for students and teams to learn by doing, not just reading.
 
-## ✨ What’s inside
+# ✨ What’s inside
 - **Scenario-based gameplay**: Phishing inbox triage, malware outbreak, weak-password audit, and basic SOC workflows.  
 - **Quizzes + timers**: Timed rounds, streaks, and instant feedback to reinforce learning.  
 - **Realistic artifacts**: Emails, logs, URLs, headers, and indicators of compromise (IOCs).  
