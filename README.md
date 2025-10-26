@@ -9,7 +9,7 @@ Interactive, browser-based cybersecurity simulation to practice real-world defen
 - **Scoring & badges**: Accuracy, speed, and safe decisions unlock levels.  
 
 
-## 🎯Learning objectives
+# 🎯Learning objectives
 - Identify phishing and social engineering cues  
 - Evaluate password strength & MFA choices  
 - Follow first-response steps for malware events  
