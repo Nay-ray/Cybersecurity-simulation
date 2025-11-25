@@ -1,4 +1,4 @@
- Cybersecurity-simulation
+  Cybersecurity-simulation
  Interactive, browser-based cybersecurity simulation to practice real-world defense skills—spot phishing, contain malware, harden passwords, and respond to incidents under time pressure. Built for students and  teams to learn by doing, not just reading.
 
 # ✨ What’s inside
