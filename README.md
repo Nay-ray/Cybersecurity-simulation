@@ -7,7 +7,6 @@
 - **Realistic artifacts**: Emails, logs, URLs, headers, and indicators of compromise (IOCs).  
 - **Scoring & badges**: Accuracy, speed, and safe decisions unlock levels.  
 
-
 # 🎯Learning objectives
 - Identify phishing and social engineering cues  
 - Evaluate password strength & MFA choices  
